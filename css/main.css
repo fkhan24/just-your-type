@@ -1,0 +1,8 @@
+.section-one{
+  background-color: #122b63;
+  color: white;
+}
+
+@media only screen and (min-width: 60em) {
+
+}
