@@ -1,4 +1,23 @@
-.section-one {
-  background-color: #122b63;
+html {
+  font-family: "Linden Hill", serif;
+}
+
+body {
+  display: block;
+  background-color: lightblue;
   color: white;
+}
+
+.section-five {
+  font-family: "Sorts Mill Goudy", serif;
+  color: transparent;
+  transition: color 2000ms linear;
+}
+
+.section-five:hover {
+  color: #730313;
+}
+
+em:hover {
+  color: #730313;
 }
