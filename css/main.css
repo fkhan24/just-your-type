@@ -10,8 +10,8 @@ body {
 
 .section-five {
   font-family: "Sorts Mill Goudy", serif;
-  color: transparent;
-  transition: color 2000ms linear;
+  color: rgba(115,3,9,.05);
+  transition: all 2000ms ease-in-out;
 }
 
 .section-five:hover {
