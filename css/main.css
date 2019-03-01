@@ -1,11 +1,17 @@
 html {
   font-family: "Linden Hill", serif;
+  margin-bottom: 3rem;
 }
 
 body {
   display: block;
   background-color: #7fadcb;
   color: white;
+  border-style: solid;
+  border-radius: 1em 0;
+  margin: 2em;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .section-five {
